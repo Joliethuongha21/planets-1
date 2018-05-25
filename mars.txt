@@ -1,5 +1,5 @@
 cold and dry, but everything is my favorite color
 cool information about mars and the two moons
 third line about mars
-stuff about venus 
-change to file
+stuff about venus
+resolved conflict
